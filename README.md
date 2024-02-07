@@ -11,7 +11,7 @@
 ![Source Code](https://github.com/william-Silver-droid/programming-portfolio/blob/main/src/cars.zip)
 
 ### Space Game
-![Gameplay](https://github.com/william-Silver-droid/programming-portfolio/blob/main/images/gameplay.png)
+![Gameplay](https://github.com/william-Silver-droid/programming-portfolio/blob/main/images/spacegame.png)
 
 [Source Code](https://github.com/william-Silver-droid/programming-portfolio/blob/main/src/SpaceGame.zip)
 
